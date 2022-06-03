@@ -31,13 +31,13 @@
 
 ## 💻 Sobre o projeto
 
-Projeto Auto Msg - é uma ferramenta de automação feita em JavaScript para envio de mensagens ja definidas através da plataforma do Whatsapp Web.
+Iniciando aplicação com o framework Django
 
 ---
 
 ## ⚙️ Funcionalidades
 
-- [x] Mostar funcionamento da aplicação web python utilizando html e css
+- [x] Mostar funcionamento da aplicação web python utilizando html e css;
 
 ---
 
