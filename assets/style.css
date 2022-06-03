@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: rgb(111, 37, 180);
+}
+
+h1{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 68pt;
+    color: whitesmoke;
+    text-shadow: 0.1em 0.15em 0.2em black;
+}
